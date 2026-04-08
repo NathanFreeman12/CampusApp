@@ -1,0 +1,13 @@
+/* This file adds simple styling to my website */
+body {
+  background-color: #f8f9fa;
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+  margin-bottom: 15px;
+}
+
+.card {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
